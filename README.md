@@ -8,8 +8,6 @@
 
 **Rust Learn Backend** is a modern, fast, and minimal backend API built with [Axum](https://github.com/tokio-rs/axum) and Rust 2024 edition. It is designed for learning, experimenting, and rapid prototyping of backend features with clean code and best practices.
 
----
-
 ## ✨ Features
 
 - ⚡ **Blazing Fast**: Powered by Rust and Axum
@@ -17,8 +15,6 @@
 - 🔒 **Type Safety**: Strong typing with Rust and Serde
 - 🧪 **Ready for Experimentation**: Perfect for learning and prototyping
 - 🌐 **CORS Enabled**: Open for frontend integration
-
----
 
 ## 📦 Getting Started
 
@@ -48,14 +44,10 @@ $ cargo run
 
 The server will start on the port specified in your `.env` file.
 
----
-
 ## 🛣️ Example Endpoints
 
 - `GET /text/` — Home handshake
 - `POST /text/ascii` — Converts JSON `{ "text": "yourtext" }` to ASCII codes (space-separated)
-
----
 
 ## 🗂️ Project Structure
 
@@ -72,19 +64,13 @@ The server will start on the port specified in your `.env` file.
 └── README.md
 ```
 
----
-
 ## 🤝 Contributing
 
 Pull requests and issues are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Credits
 
