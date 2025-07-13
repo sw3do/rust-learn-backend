@@ -30,8 +30,8 @@
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/sw3do/rust-learn-backned.git
-$ cd rust-learn-backned
+$ git clone https://github.com/sw3do/rust-learn-backend.git
+$ cd rust-learn-backend
 
 # Install dependencies
 $ cargo build

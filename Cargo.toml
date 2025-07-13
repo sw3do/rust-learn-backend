@@ -1,5 +1,5 @@
 [package]
-name = "rust-learn-backned"
+name = "rust-learn-backend"
 version = "0.1.0"
 edition = "2024"
 
